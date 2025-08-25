@@ -1,0 +1,2039 @@
+[
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-1",
+        "height_cm": 2.9273829460144043,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-2",
+        "height_cm": 6.914339542388916,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-3",
+        "height_cm": 3.513418674468994,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-4",
+        "height_cm": 2.5427451133728027,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-5",
+        "height_cm": 7.148026943206787,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-6",
+        "height_cm": 7.0703558921813965,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-7",
+        "height_cm": 7.084784507751465,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-8",
+        "height_cm": 7.240694522857666,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-9",
+        "height_cm": 7.1416335105896,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-10",
+        "height_cm": 4.107141494750977,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-11",
+        "height_cm": 7.106501579284668,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-12",
+        "height_cm": 2.8422675132751465,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:13",
+        "name": "Product-13",
+        "height_cm": 7.177114963531494,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-14",
+        "height_cm": 28.811777114868164,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-15",
+        "height_cm": 7.285704612731934,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-16",
+        "height_cm": 3.5725197792053223,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-17",
+        "height_cm": 2.8445701599121094,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-18",
+        "height_cm": 3.5861191749572754,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-19",
+        "height_cm": 3.5725226402282715,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-20",
+        "height_cm": 3.5915706157684326,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-21",
+        "height_cm": 3.866503953933716,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-22",
+        "height_cm": 3.128840446472168,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-23",
+        "height_cm": 23.248493194580078,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-24",
+        "height_cm": 7.299944877624512,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-25",
+        "height_cm": 7.205802917480469,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-26",
+        "height_cm": 23.238374710083008,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-27",
+        "height_cm": 3.8513927459716797,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:14",
+        "name": "Product-28",
+        "height_cm": 28.229381561279297,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-29",
+        "height_cm": 7.2775678634643555,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-30",
+        "height_cm": 4.132918834686279,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-31",
+        "height_cm": 28.229381561279297,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-32",
+        "height_cm": 28.12918472290039,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-33",
+        "height_cm": 3.4699714183807373,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-34",
+        "height_cm": 3.4836630821228027,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-35",
+        "height_cm": 3.4588260650634766,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-36",
+        "height_cm": 3.56754732131958,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-37",
+        "height_cm": 28.12918472290039,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-38",
+        "height_cm": 7.418787479400635,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-39",
+        "height_cm": 2.7544188499450684,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-40",
+        "height_cm": 3.6596312522888184,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-41",
+        "height_cm": 3.445639133453369,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-42",
+        "height_cm": 7.337399482727051,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:15",
+        "name": "Product-43",
+        "height_cm": 3.6083590984344482,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-44",
+        "height_cm": 7.337399482727051,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-45",
+        "height_cm": 3.8689396381378174,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-46",
+        "height_cm": 4.121381759643555,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-47",
+        "height_cm": 4.111333847045898,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-48",
+        "height_cm": 3.942669630050659,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-49",
+        "height_cm": 4.0546040534973145,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-50",
+        "height_cm": 28.153743743896484,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-51",
+        "height_cm": 4.157540321350098,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-52",
+        "height_cm": 3.9581871032714844,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-53",
+        "height_cm": 22.6646671295166,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-54",
+        "height_cm": 23.179523468017578,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-55",
+        "height_cm": 4.09910774230957,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-56",
+        "height_cm": 7.337399482727051,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-57",
+        "height_cm": 4.296941757202148,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:16",
+        "name": "Product-58",
+        "height_cm": 3.7398314476013184,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-59",
+        "height_cm": 28.12918472290039,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-60",
+        "height_cm": 3.3916194438934326,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-61",
+        "height_cm": 3.6156208515167236,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-62",
+        "height_cm": 4.063985824584961,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-63",
+        "height_cm": 3.692014694213867,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-64",
+        "height_cm": 7.374964237213135,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-65",
+        "height_cm": 7.374964237213135,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-66",
+        "height_cm": 7.374964237213135,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-67",
+        "height_cm": 7.3972978591918945,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-68",
+        "height_cm": 7.353452205657959,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-69",
+        "height_cm": 3.6360745429992676,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-70",
+        "height_cm": 28.041793823242188,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-71",
+        "height_cm": 28.041793823242188,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-72",
+        "height_cm": 7.374964237213135,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:17",
+        "name": "Product-73",
+        "height_cm": 7.412915229797363,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-74",
+        "height_cm": 4.133110523223877,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-75",
+        "height_cm": 7.474172115325928,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-76",
+        "height_cm": 7.435704231262207,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-77",
+        "height_cm": 23.110950469970703,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-78",
+        "height_cm": 3.0590126514434814,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-79",
+        "height_cm": 3.771024227142334,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-80",
+        "height_cm": 2.717372179031372,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-81",
+        "height_cm": 6.934617042541504,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-82",
+        "height_cm": 3.027064323425293,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-83",
+        "height_cm": 23.76528549194336,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-84",
+        "height_cm": 6.796394348144531,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-85",
+        "height_cm": 4.674918174743652,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-86",
+        "height_cm": 6.899104118347168,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-87",
+        "height_cm": 29.496959686279297,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:18",
+        "name": "Product-88",
+        "height_cm": 2.956296920776367,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-89",
+        "height_cm": 2.834808826446533,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-90",
+        "height_cm": 2.520798921585083,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-91",
+        "height_cm": 3.560490846633911,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-92",
+        "height_cm": 3.463963747024536,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-93",
+        "height_cm": 2.6687283515930176,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-94",
+        "height_cm": 6.64745569229126,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-95",
+        "height_cm": 2.818636894226074,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-96",
+        "height_cm": 2.9219565391540527,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-97",
+        "height_cm": 3.5290355682373047,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-98",
+        "height_cm": 2.406558036804199,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-99",
+        "height_cm": 2.5972414016723633,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-100",
+        "height_cm": 38.6380615234375,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-101",
+        "height_cm": 2.710559368133545,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-102",
+        "height_cm": 3.6907005310058594,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:19",
+        "name": "Product-103",
+        "height_cm": 28.321735382080078,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-104",
+        "height_cm": 2.772221088409424,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-105",
+        "height_cm": 4.657253265380859,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-106",
+        "height_cm": 3.5933761596679688,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-107",
+        "height_cm": 1.987297773361206,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-108",
+        "height_cm": 20.106365203857422,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-109",
+        "height_cm": 12.580496788024902,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-110",
+        "height_cm": 7.033832550048828,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-111",
+        "height_cm": 6.4376091957092285,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-112",
+        "height_cm": 6.4376091957092285,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-113",
+        "height_cm": 6.4913330078125,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-114",
+        "height_cm": 7.438806056976318,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-115",
+        "height_cm": 7.794405460357666,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-116",
+        "height_cm": 6.8883867263793945,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-117",
+        "height_cm": 19.997817993164062,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-118",
+        "height_cm": 29.723430633544922,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-119",
+        "height_cm": 24.877498626708984,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-120",
+        "height_cm": 8.043815612792969,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-121",
+        "height_cm": 7.265810966491699,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:20",
+        "name": "Product-122",
+        "height_cm": 7.515775203704834,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-123",
+        "height_cm": 26.245203018188477,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-124",
+        "height_cm": 34.198265075683594,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-125",
+        "height_cm": 26.107173919677734,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-126",
+        "height_cm": 7.102658271789551,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-127",
+        "height_cm": 6.065054893493652,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-128",
+        "height_cm": 6.849462985992432,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-129",
+        "height_cm": 24.24196434020996,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-130",
+        "height_cm": 5.117866516113281,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-131",
+        "height_cm": 5.179908752441406,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-132",
+        "height_cm": 6.151308536529541,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-133",
+        "height_cm": 4.924816608428955,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-134",
+        "height_cm": 5.172016620635986,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-135",
+        "height_cm": 5.51889705657959,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-136",
+        "height_cm": 6.590973854064941,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-137",
+        "height_cm": 20.667715072631836,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-138",
+        "height_cm": 4.887626647949219,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-139",
+        "height_cm": 5.19541597366333,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-140",
+        "height_cm": 5.166821479797363,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-141",
+        "height_cm": 5.57025146484375,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-142",
+        "height_cm": 5.205521583557129,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-143",
+        "height_cm": 5.208333969116211,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-144",
+        "height_cm": 5.215053558349609,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-145",
+        "height_cm": 5.198407173156738,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-146",
+        "height_cm": 5.232519149780273,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-147",
+        "height_cm": 5.945815086364746,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-148",
+        "height_cm": 5.271231651306152,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:21",
+        "name": "Product-149",
+        "height_cm": 6.338370323181152,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-150",
+        "height_cm": 5.244295597076416,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-151",
+        "height_cm": 6.694024562835693,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-152",
+        "height_cm": 27.44889259338379,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-153",
+        "height_cm": 38.840850830078125,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-154",
+        "height_cm": 38.94866180419922,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-155",
+        "height_cm": 39.849815368652344,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-156",
+        "height_cm": 6.17844820022583,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-157",
+        "height_cm": 6.783138275146484,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-158",
+        "height_cm": 6.673280239105225,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-159",
+        "height_cm": 39.342369079589844,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-160",
+        "height_cm": 6.905433654785156,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-161",
+        "height_cm": 39.86089324951172,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-162",
+        "height_cm": 7.076062202453613,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-163",
+        "height_cm": 6.465280055999756,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-164",
+        "height_cm": 7.111214637756348,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-165",
+        "height_cm": 6.3034281730651855,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-166",
+        "height_cm": 5.901101589202881,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-167",
+        "height_cm": 6.16159200668335,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-168",
+        "height_cm": 5.894103050231934,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-169",
+        "height_cm": 6.15945291519165,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:22",
+        "name": "Product-170",
+        "height_cm": 7.126117706298828,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-171",
+        "height_cm": 7.167177677154541,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-172",
+        "height_cm": 7.221426486968994,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-173",
+        "height_cm": 6.3807878494262695,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-174",
+        "height_cm": 7.034250736236572,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-175",
+        "height_cm": 7.602234840393066,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-176",
+        "height_cm": 7.618001461029053,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-177",
+        "height_cm": 7.6171112060546875,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-178",
+        "height_cm": 4.239316463470459,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-179",
+        "height_cm": 7.164189338684082,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-180",
+        "height_cm": 7.8059844970703125,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-181",
+        "height_cm": 7.774172306060791,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-182",
+        "height_cm": 6.683221340179443,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-183",
+        "height_cm": 7.196213722229004,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-184",
+        "height_cm": 7.8165435791015625,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-185",
+        "height_cm": 13.403871536254883,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-186",
+        "height_cm": 7.9249162673950195,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-187",
+        "height_cm": 6.638913631439209,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-188",
+        "height_cm": 7.329856872558594,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-189",
+        "height_cm": 17.119998931884766,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-190",
+        "height_cm": 8.063875198364258,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-191",
+        "height_cm": 8.08122444152832,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-192",
+        "height_cm": 7.973613739013672,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-193",
+        "height_cm": 7.070566654205322,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-194",
+        "height_cm": 15.10808277130127,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-195",
+        "height_cm": 7.079549312591553,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-196",
+        "height_cm": 6.9084978103637695,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-197",
+        "height_cm": 6.752068996429443,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-198",
+        "height_cm": 6.958543300628662,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-199",
+        "height_cm": 27.872509002685547,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:23",
+        "name": "Product-200",
+        "height_cm": 6.770342826843262,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-201",
+        "height_cm": 6.709650993347168,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-202",
+        "height_cm": 7.704779624938965,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-203",
+        "height_cm": 7.7388505935668945,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-204",
+        "height_cm": 6.880357265472412,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-205",
+        "height_cm": 6.920758247375488,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-206",
+        "height_cm": 6.893024444580078,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-207",
+        "height_cm": 7.7627973556518555,
+        "width_cm": 8.5600004196167
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-208",
+        "height_cm": 12.533202171325684,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-209",
+        "height_cm": 3.9913551807403564,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-210",
+        "height_cm": 4.489710807800293,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-211",
+        "height_cm": 27.6127986907959,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-212",
+        "height_cm": 32.63138198852539,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-213",
+        "height_cm": 27.519128799438477,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-214",
+        "height_cm": 5.166794776916504,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-215",
+        "height_cm": 32.2978401184082,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-216",
+        "height_cm": 32.474403381347656,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-217",
+        "height_cm": 29.19008445739746,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-218",
+        "height_cm": 32.54529571533203,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-219",
+        "height_cm": 27.79400062561035,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-220",
+        "height_cm": 26.85238265991211,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-221",
+        "height_cm": 27.595722198486328,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-222",
+        "height_cm": 4.171413898468018,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-223",
+        "height_cm": 27.970895767211914,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-224",
+        "height_cm": 28.115570068359375,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-225",
+        "height_cm": 27.78701400756836,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-226",
+        "height_cm": 27.78701400756836,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-227",
+        "height_cm": 27.78701400756836,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-228",
+        "height_cm": 27.78701400756836,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:24",
+        "name": "Product-229",
+        "height_cm": 3.3743057250976562,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-230",
+        "height_cm": 26.878408432006836,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-231",
+        "height_cm": 4.291840076446533,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-232",
+        "height_cm": 26.712451934814453,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-233",
+        "height_cm": 3.8494505882263184,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-234",
+        "height_cm": 14.671658515930176,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-235",
+        "height_cm": 27.268728256225586,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-236",
+        "height_cm": 27.49808120727539,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-237",
+        "height_cm": 27.30045509338379,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-238",
+        "height_cm": 27.208206176757812,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-239",
+        "height_cm": 28.554895401000977,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-240",
+        "height_cm": 13.986234664916992,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-241",
+        "height_cm": 10.529169082641602,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-242",
+        "height_cm": 29.12898826599121,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-243",
+        "height_cm": 9.252708435058594,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:25",
+        "name": "Product-244",
+        "height_cm": 4.291672706604004,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-245",
+        "height_cm": 9.236308097839355,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-246",
+        "height_cm": 35.515342712402344,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-247",
+        "height_cm": 3.13157320022583,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-248",
+        "height_cm": 29.16195297241211,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-249",
+        "height_cm": 31.159948348999023,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-250",
+        "height_cm": 21.404888153076172,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-251",
+        "height_cm": 9.258764266967773,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-252",
+        "height_cm": 9.192689895629883,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-253",
+        "height_cm": 3.713341236114502,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-254",
+        "height_cm": 4.142813205718994,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-255",
+        "height_cm": 4.243651390075684,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-256",
+        "height_cm": 3.708944320678711,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-257",
+        "height_cm": 28.125320434570312,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-258",
+        "height_cm": 3.6979241371154785,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:26",
+        "name": "Product-259",
+        "height_cm": 3.4536285400390625,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-260",
+        "height_cm": 5.548148155212402,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-261",
+        "height_cm": 27.204227447509766,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-262",
+        "height_cm": 4.324984073638916,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-263",
+        "height_cm": 32.36127471923828,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-264",
+        "height_cm": 27.58782958984375,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-265",
+        "height_cm": 32.57527160644531,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-266",
+        "height_cm": 27.664052963256836,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-267",
+        "height_cm": 7.730548858642578,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-268",
+        "height_cm": 32.58595657348633,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-269",
+        "height_cm": 27.298954010009766,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-270",
+        "height_cm": 27.400554656982422,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-271",
+        "height_cm": 6.604176998138428,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-272",
+        "height_cm": 11.522469520568848,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:27",
+        "name": "Product-273",
+        "height_cm": 12.090779304504395,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-274",
+        "height_cm": 12.010437965393066,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-275",
+        "height_cm": 4.755555152893066,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-276",
+        "height_cm": 4.8270673751831055,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-277",
+        "height_cm": 15.026293754577637,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-278",
+        "height_cm": 4.867405891418457,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-279",
+        "height_cm": 4.589301109313965,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-280",
+        "height_cm": 5.758997440338135,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-281",
+        "height_cm": 4.6839141845703125,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-282",
+        "height_cm": 4.304428577423096,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-283",
+        "height_cm": 4.673720359802246,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-284",
+        "height_cm": 3.339216709136963,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-285",
+        "height_cm": 3.3750290870666504,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-286",
+        "height_cm": 3.4049899578094482,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-287",
+        "height_cm": 5.91799259185791,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:28",
+        "name": "Product-288",
+        "height_cm": 3.1639139652252197,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:29",
+        "name": "Product-289",
+        "height_cm": 3.599271297454834,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:29",
+        "name": "Product-290",
+        "height_cm": 6.567407131195068,
+        "width_cm": 8.559999465942383
+    },
+    {
+        "type": "object",
+        "timestamp": "2025-08-25 15:55:29",
+        "name": "Product-291",
+        "height_cm": 4.1517205238342285,
+        "width_cm": 8.559999465942383
+    }
+]

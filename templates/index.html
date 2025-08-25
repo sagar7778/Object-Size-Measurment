@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Object Size Measurement</title>
+</head>
+<body>
+    <h1>Object Size Measurement</h1>
+    <img src="{{ url_for('video') }}" width="640" height="480">
+
+    <h2>Scanned Results</h2>
+    <ul id="results"></ul>
+
+    <script>
+        async function fetchData() {
+            const response = await fetch("/data");
+            const data = await response.json();
+
+            const resultsList = document.getElementById("results");
+            resultsList.innerHTML = ""; // Clear previous results
+
+            data.forEach((item) => {
+                const listItem = document.createElement("li");
+                if (item.type === "object") {
+                    listItem.textContent = `Object: ${item.name}, Height: ${item.height_cm.toFixed(2)} cm, Width: ${item.width_cm.toFixed(2)} cm, Time: ${item.timestamp}`;
+                } else if (item.type === "qr") {
+                    listItem.textContent = `QR Code: ${item.data}, Time: ${item.timestamp}`;
+                }
+                resultsList.appendChild(listItem);
+            });
+        }
+
+        // Fetch data every 2 seconds
+        setInterval(fetchData, 2000);
+    </script>
+</body>
+</html>
